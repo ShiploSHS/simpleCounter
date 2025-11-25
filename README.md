@@ -15,14 +15,6 @@ This project demonstrates a simple counter UI with easy-to-click +/- buttons and
 - `style.css` — layout, colors, accessibility and responsive rules
 - `index.js` — JavaScript handlers for increase, decrease and reset
 
-## How to run
-1. Open the folder in File Explorer and double-click `index.html` to open it in your default browser.
-2. Or from PowerShell inside the project directory run:
-
-```powershell
-start .\index.html
-```
-
 ## Live demo
 You can also see a live preview hosted on GitHub Pages:
 
