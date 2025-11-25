@@ -36,4 +36,4 @@ https://shiploshs.github.io/simpleCounter/
 Feel free to open a PR or add suggestions — great for small improvements like theming, a11y tweaks or keyboard shortcuts.
 
 ---
-Made with ❤️ — simpleCounter
+Made with ❤️ — ShiploSHS
